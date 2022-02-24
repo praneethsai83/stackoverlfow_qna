@@ -9,5 +9,8 @@
         <module name="StackOverflow" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="StackOverflow" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

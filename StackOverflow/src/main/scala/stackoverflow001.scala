@@ -8,7 +8,7 @@ import scala.collection.mutable
 object stackoverflow001 extends App {
   val spark = SparkSession.builder().master("local[*]").getOrCreate()
   spark.sparkContext.setLogLevel("error")
-  val df = spark.read.json("C:\\Users\\HP\\Desktop\\StackOverflow\\StackOverflow\\src\\main\\resources\\001_data.txt")
+  val df = spark.read.json("F:\\devops\\stackoverlfow_qna\\StackOverflow\\src\\main\\resources\\001_data.txt")
 
   val category_Mapping = Map("Category1" -> Array("A", "B"), "Category2" -> Array("C"), "Category3" -> Array("B", "D"))
 
