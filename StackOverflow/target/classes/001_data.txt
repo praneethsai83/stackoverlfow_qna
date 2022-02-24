@@ -1,0 +1,9 @@
+{"Serial Number":1,"my_list":["A"]}
+{"Serial Number":2,"my_list":["A"]}
+{"Serial Number":3,"my_list":["A","B"]}
+{"Serial Number":4,"my_list":["C"]}
+{"Serial Number":5,"my_list":["A"]}
+{"Serial Number":6,"my_list":["A", "C"]}
+{"Serial Number":7,"my_list":["B"]}
+{"Serial Number":8,"my_list":["A", "B", "C"]}
+{"Serial Number":9,"my_list":["A"]}

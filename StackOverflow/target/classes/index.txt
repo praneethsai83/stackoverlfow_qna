@@ -1,0 +1,11 @@
+#001 -> Checking if list of strings in a Scala Dataframe column is present in the value of a Map
+https://stackoverflow.com/questions/71230092/checking-if-list-of-strings-in-a-scala-dataframe-column-is-present-in-the-value/71233150#71233150
+
+#002 -> Json in a Dataframe field in Scala in a recommender engine
+https://stackoverflow.com/questions/71210116/json-in-a-dataframe-field-in-scala-in-a-recommender-engine/71235392#71235392
+
+#003 -> Compare 2 dataframes and create an output dataframe containing the name of the columns that contain differences and their values
+https://stackoverflow.com/questions/71222011/compare-2-dataframes-and-create-an-output-dataframe-containing-the-name-of-the-c/71238180#71238180
+
+#004 -> Process JSON String Data with Spark Scala
+https://stackoverflow.com/questions/71244209/unique-pairs-in-cartesian-product-of-an-rdd-with-itself
